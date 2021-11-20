@@ -1,0 +1,4 @@
+터미널에서 
+
+npx create-react-app (프로젝트 이름) 쳐서 리액트 실행 
+npm start 로 미리보기 가능 
